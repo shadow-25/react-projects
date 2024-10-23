@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.laven{
+  background-color: lavender;
+}
+.olev{
+  background-color: olive;
+}
